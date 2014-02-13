@@ -1,4 +1,4 @@
-var HttpService = require("./HttpService"),
+var HttpService = require("droopy-http"),
 	q = require("q"),
 	cheerio = require("cheerio");
 
